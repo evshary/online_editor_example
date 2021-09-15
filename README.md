@@ -10,6 +10,20 @@ Monaco Editor: https://microsoft.github.io/monaco-editor/
 
 # Usage
 
+* Clone code
+
+```bash
+git clone git@github.com:evshary/online_editor_example.git
+cd online_editor_example
+```
+
+* Download dependencies
+
+```bash
+npn install
+```
+
+* Open `index.html`
 
 # Reference
 
