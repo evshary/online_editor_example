@@ -6,7 +6,11 @@ There are several options for online editor (CodeMirror, Ace, Monaco...)
 
 We suggest to use Monaco Editor, which is the core editor that powers VS Code.
 
-Monaco Editor: https://microsoft.github.io/monaco-editor/
+Monaco Editor Resources:
+
+* Homepage: https://microsoft.github.io/monaco-editor/
+* API: https://microsoft.github.io/monaco-editor/api/index.html
+* Example Code: https://microsoft.github.io/monaco-editor/playground.html
 
 # Usage
 
