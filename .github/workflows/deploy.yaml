@@ -23,7 +23,7 @@ jobs:
         run: |
             rm -rf public
             mkdir -p public
-            cp *.html *.js *.css node_modules public
+            cp -r *.html *.js *.css node_modules public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
