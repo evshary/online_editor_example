@@ -24,7 +24,7 @@ cd online_editor_example
 * Download dependencies
 
 ```bash
-npn install
+npm install
 ```
 
 * Open `index.html`

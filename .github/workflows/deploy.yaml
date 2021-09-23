@@ -17,7 +17,7 @@ jobs:
           node-version: '10.20.1'
 
       - name: Install dependencies
-        run: npn install
+        run: npm install
 
       - name: Create Publish Folder
         run: |
