@@ -2,6 +2,8 @@
 
 This is the example for online editor.
 
+You can access the editor from https://evshary.com/online_editor_example/
+
 There are several options for online editor (CodeMirror, Ace, Monaco...)
 
 We suggest to use Monaco Editor, which is the core editor that powers VS Code.
@@ -27,7 +29,7 @@ cd online_editor_example
 npm install
 ```
 
-* Open `index.html`
+* Open `index.html` or https://evshary.com/online_editor_example/
 
 # Reference
 
